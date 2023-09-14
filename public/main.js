@@ -27,6 +27,7 @@ const separate = () => {
 	});
 };
 
+
 btn_play.addEventListener("click", separate);
 btn_stop.addEventListener("click", () => clearInterval(timer));
 btn_reset.addEventListener("click", () => {
