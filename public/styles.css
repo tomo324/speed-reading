@@ -1,0 +1,54 @@
+.main-container {
+    padding: 20px;
+}
+.display {
+    width: 80%;
+    height: 100px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 28px;
+}
+.text-form {
+    width: 80%;
+    height: 80px;
+}
+.btn-wrapper {
+    display: block;
+    margin: 20px 0 0 20px;
+}
+.play {
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    margin: 10px;
+    background-color: rgb(149, 223, 149);
+    border-radius: 10px;
+    border: none;
+}
+.play:hover {
+    background-color: rgb(105, 175, 105);
+}
+.stop {
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    margin: 10px;
+    background-color: rgb(222, 183, 100);
+    border-radius: 10px;
+    border: none;
+}
+.stop:hover {
+    background-color: rgb(180, 151, 88);
+}
+.reset {
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    margin: 10px;
+    background-color: rgb(153, 152, 156);
+    border-radius: 10px;
+    border: none;
+}
+.reset:hover {
+    background-color: rgb(131, 131, 132);
+}
